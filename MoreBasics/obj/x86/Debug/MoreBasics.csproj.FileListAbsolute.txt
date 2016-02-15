@@ -8,3 +8,8 @@ C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\bin\Debug\MoreBa
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.csprojResolveAssemblyReference.cache
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.dll
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.pdb
+C:\Development\BasicOperations\MoreBasics\bin\Debug\MoreBasics.dll
+C:\Development\BasicOperations\MoreBasics\bin\Debug\MoreBasics.pdb
+C:\Development\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.csprojResolveAssemblyReference.cache
+C:\Development\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.dll
+C:\Development\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.pdb

@@ -15,3 +15,9 @@ C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Deb
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
 C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.csprojResolveAssemblyReference.cache
+C:\Development\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Development\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.exe
+C:\Development\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.pdb
+C:\Development\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Development\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Development\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.csprojResolveAssemblyReference.cache
