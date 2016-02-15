@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicOperations", "BasicOperations\BasicOperations.csproj", "{FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreBasics", "MoreBasics\MoreBasics.csproj", "{89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicsViewer", "BasicsViewer\BasicsViewer.csproj", "{C983B03D-34CD-4781-A571-2D67AFCD5DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F}.Debug|x86.ActiveCfg = Debug|x86
+		{FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F}.Debug|x86.Build.0 = Debug|x86
+		{FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F}.Release|x86.ActiveCfg = Release|x86
+		{FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F}.Release|x86.Build.0 = Release|x86
+		{89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0}.Debug|x86.ActiveCfg = Debug|x86
+		{89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0}.Debug|x86.Build.0 = Debug|x86
+		{89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0}.Release|x86.ActiveCfg = Release|x86
+		{89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0}.Release|x86.Build.0 = Release|x86
+		{C983B03D-34CD-4781-A571-2D67AFCD5DFB}.Debug|x86.ActiveCfg = Debug|x86
+		{C983B03D-34CD-4781-A571-2D67AFCD5DFB}.Debug|x86.Build.0 = Debug|x86
+		{C983B03D-34CD-4781-A571-2D67AFCD5DFB}.Release|x86.ActiveCfg = Release|x86
+		{C983B03D-34CD-4781-A571-2D67AFCD5DFB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

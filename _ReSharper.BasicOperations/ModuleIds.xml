@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F" ModuleId="BasicOperations" />
+  <Module PersistentId="89C0E0DC-9FC0-49F6-A08E-ACB55F97CEF0" ModuleId="MoreBasics" />
+  <Module PersistentId="C983B03D-34CD-4781-A571-2D67AFCD5DFB" ModuleId="BasicsViewer" />
+</Modules>

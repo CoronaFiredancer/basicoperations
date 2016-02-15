@@ -1,0 +1,467 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:App.xaml" caret="0" fromTop="0" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml" caret="272" fromTop="4" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml.cs" caret="655" fromTop="21" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreateSpeciesPage.xaml.cs" caret="0" fromTop="0" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreateSpeciesPage.xaml" caret="1457" fromTop="11" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="682" fromTop="15" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml.cs" caret="1179" fromTop="26" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:AnimalFactory.cs" caret="0" fromTop="0" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/f:Program.cs" caret="0" fromTop="0" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Kingdoms/f:Animalia.cs" caret="0" fromTop="0" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:ClassificationFactory.cs" caret="1295" fromTop="35" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:FactoriesFactory.cs" caret="0" fromTop="0" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:TypeFactory.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml" caret="11" fromTop="0" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml" caret="272" fromTop="4" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml.cs" caret="588" fromTop="17" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/f:Program.cs" caret="1560" fromTop="24" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="2762" fromTop="9" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="2602" fromTop="28" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="2312" fromTop="22" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml.cs" caret="655" fromTop="21" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:TypeFactory.cs" caret="549" fromTop="16" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="541" fromTop="11" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:MainWindow.xaml.cs" caret="655" fromTop="21" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml.cs" caret="636" fromTop="19" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="2580" fromTop="19" />
+      <File id="FD58E051-1E4D-4F86-A8B0-F91A4DFDA09F/d:Factories/f:TypeFactory.cs" caret="286" fromTop="11" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml.cs" caret="392" fromTop="10" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="184" fromTop="3" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreateSpeciesPage.xaml" caret="1457" fromTop="11" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml" caret="1107" fromTop="21" />
+      <File id="C983B03D-34CD-4781-A571-2D67AFCD5DFB/f:CreationPage.xaml.cs" caret="1179" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="44" />
+      <Item value="string" priority="70" />
+      <Item value="Animal`0" priority="17" />
+      <Item value="new" priority="37" />
+      <Item value="Mammal`0" priority="6" />
+      <Item value="Genus" priority="3" />
+      <Item value="Species" priority="3" />
+      <Item value="ITakeOnLife`0" priority="5" />
+      <Item value="private" priority="21" />
+      <Item value="return" priority="32" />
+      <Item value="take" priority="1" />
+      <Item value="giraffe" priority="6" />
+      <Item value="Bird`0" priority="5" />
+      <Item value="System" priority="4" />
+      <Item value="Console`0" priority="6" />
+      <Item value="while" priority="0" />
+      <Item value="hippo" priority="2" />
+      <Item value="ostrich" priority="1" />
+      <Item value="Take" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="interface" priority="0" />
+      <Item value="MyTakeOnLife`0" priority="3" />
+      <Item value="ILife`0" priority="24" />
+      <Item value="Interfaces" priority="4" />
+      <Item value="WifeHacker`0" priority="1" />
+      <Item value="Bird" priority="0" />
+      <Item value="Mammal" priority="1" />
+      <Item value="LifeHacker`0" priority="0" />
+      <Item value="KnifeHacker`0" priority="0" />
+      <Item value="Reptile`0" priority="3" />
+      <Item value="Reptile" priority="0" />
+      <Item value="aligator" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="var" priority="22" />
+      <Item value="IAnimal`0" priority="2" />
+      <Item value="AnimalFactory`0" priority="8" />
+      <Item value="factory" priority="2" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Reflection" priority="1" />
+      <Item value="kingdom" priority="7" />
+      <Item value="Assembly`0" priority="2" />
+      <Item value="Activator`0" priority="1" />
+      <Item value="typeof" priority="14" />
+      <Item value="Type`0" priority="27" />
+      <Item value="fullName" priority="1" />
+      <Item value="assembly" priority="2" />
+      <Item value="CreateAnimal`0" priority="0" />
+      <Item value="animalKingdom" priority="2" />
+      <Item value="genus" priority="1" />
+      <Item value="species" priority="2" />
+      <Item value="crocodile" priority="4" />
+      <Item value="Dictionary" priority="5" />
+      <Item value="Dictionary&lt;string,Type&gt;" priority="5" />
+      <Item value="void" priority="22" />
+      <Item value="RegisteredProducts" priority="1" />
+      <Item value="animalType" priority="0" />
+      <Item value="out" priority="5" />
+      <Item value="static" priority="25" />
+      <Item value="if" priority="1" />
+      <Item value="singleton" priority="9" />
+      <Item value="AnimalFactory" priority="0" />
+      <Item value="PlantFactory`0" priority="8" />
+      <Item value="PlantFactory" priority="0" />
+      <Item value="RegisteredPlants" priority="0" />
+      <Item value="classifications" priority="0" />
+      <Item value="plantType" priority="0" />
+      <Item value="type" priority="26" />
+      <Item value="registredTypes" priority="1" />
+      <Item value="IAbstractFactory`0" priority="11" />
+      <Item value="GeneraFactory`0" priority="3" />
+      <Item value="CreateNewGenera`0" priority="0" />
+      <Item value="generaName" priority="6" />
+      <Item value="as" priority="0" />
+      <Item value="assemblyBuilder" priority="1" />
+      <Item value="AssemblyBuilderAccess`0" priority="0" />
+      <Item value="ModuleBuilder`0" priority="1" />
+      <Item value="moduleBuilder" priority="2" />
+      <Item value="TypeBuilder`0" priority="2" />
+      <Item value="typeBuilder" priority="15" />
+      <Item value="Public" priority="2" />
+      <Item value="MethodAttributes`0" priority="5" />
+      <Item value="ILGenerator`0" priority="3" />
+      <Item value="ilGenerator" priority="3" />
+      <Item value="takeOnLife" priority="4" />
+      <Item value="OpCode`0" priority="0" />
+      <Item value="OpCode" priority="0" />
+      <Item value="OpCodes`0" priority="9" />
+      <Item value="RegisteredTypes" priority="2" />
+      <Item value="classification" priority="9" />
+      <Item value="RegisterType`0" priority="0" />
+      <Item value="GeneraFactory" priority="0" />
+      <Item value="a" priority="3" />
+      <Item value="Reptilia`0" priority="0" />
+      <Item value="IPlant`0" priority="4" />
+      <Item value="CreatePlant`0" priority="0" />
+      <Item value="CreatePlanteaClass`0" priority="0" />
+      <Item value="planteaClass" priority="2" />
+      <Item value="daffodil" priority="6" />
+      <Item value="None" priority="0" />
+      <Item value="Type" priority="1" />
+      <Item value="getGenus" priority="1" />
+      <Item value="MethodBuilder`0" priority="2" />
+      <Item value="getSetAttributes" priority="1" />
+      <Item value="getPropertyBuilder" priority="1" />
+      <Item value="genusGetIL" priority="3" />
+      <Item value="FieldBuilder`0" priority="0" />
+      <Item value="Private" priority="0" />
+      <Item value="genusBuilder" priority="1" />
+      <Item value="PropertyBuilder`0" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="setPropertyBuilder" priority="1" />
+      <Item value="genusSetIL" priority="3" />
+      <Item value="propertyBuilder" priority="0" />
+      <Item value="List" priority="6" />
+      <Item value="stringProperties" priority="0" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="StringProperties" priority="1" />
+      <Item value="property" priority="6" />
+      <Item value="generaFactory" priority="4" />
+      <Item value="foreach" priority="4" />
+      <Item value="mustImplement" priority="1" />
+      <Item value="int" priority="7" />
+      <Item value="String`0" priority="2" />
+      <Item value="Request`0" priority="1" />
+      <Item value="mDescription" priority="1" />
+      <Item value="description" priority="0" />
+      <Item value="mValue" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="Handler`0" priority="1" />
+      <Item value="Successor" priority="0" />
+      <Item value="successor" priority="0" />
+      <Item value="abstract" priority="1" />
+      <Item value="request" priority="0" />
+      <Item value="RegisteredAnimals" priority="0" />
+      <Item value="List&lt;Type&gt;" priority="0" />
+      <Item value="TypeProperties" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="BuildTypeProperty`0" priority="1" />
+      <Item value="typeProperty" priority="1" />
+      <Item value="BasicOperations" priority="2" />
+      <Item value="Kingdoms" priority="0" />
+      <Item value="Animalia`0" priority="0" />
+      <Item value="SpeciesFactory`0" priority="2" />
+      <Item value="SpeciesFactory" priority="1" />
+      <Item value="speciesFactory" priority="4" />
+      <Item value="Classification`0" priority="8" />
+      <Item value="Classification" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="IClassification`0" priority="1" />
+      <Item value="colloquialName" priority="1" />
+      <Item value="IList" priority="0" />
+      <Item value="Magnoliophyta`0" priority="0" />
+      <Item value="b" priority="1" />
+      <Item value="RegisteredSpecies" priority="1" />
+      <Item value="CreateSpecies`0" priority="1" />
+      <Item value="genusName" priority="1" />
+      <Item value="creation" priority="2" />
+      <Item value="speciesName" priority="0" />
+      <Item value="classificationFactory" priority="1" />
+      <Item value="classificationColloquialName" priority="1" />
+      <Item value="classificationType" priority="1" />
+      <Item value="ClassificationFactory`0" priority="27" />
+      <Item value="wallMoss" priority="3" />
+      <Item value="RegisteredClassifications" priority="1" />
+      <Item value="KingdomFactory`0" priority="6" />
+      <Item value="AssemblyName`0" priority="1" />
+      <Item value="QualifierName" priority="1" />
+      <Item value="qualifierName" priority="1" />
+      <Item value="FactoriesFactory`0" priority="3" />
+      <Item value="factoryName" priority="0" />
+      <Item value="TypeFactory`0" priority="5" />
+      <Item value="goo" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="IFactoryObservablecs`0" priority="0" />
+      <Item value="factoryObservablecs" priority="0" />
+      <Item value="IFactoryObserver`0" priority="1" />
+      <Item value="factoryObserver" priority="1" />
+      <Item value="typeBox" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="BasicsViewer" priority="1" />
+      <Item value="MainWindow`0" priority="2" />
+      <Item value="createdTypes" priority="1" />
+      <Item value="DataContext" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="registeredType" priority="0" />
+      <Item value="kingdomBox" priority="4" />
+      <Item value="latinKingdomText" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="BindingSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="2" />
+      <Item value="WriteLine`0" priority="2" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Animal">
+      <Item value="TakeOnLife`0" priority="1" />
+      <Item value="Take" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Bird">
+      <Item value="Equals`0" priority="0" />
+      <Item value="TakeOnLife`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Mammal">
+      <Item value="TakeOnLife`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.AnimalFactory">
+      <Item value="CreateAnimal`0" priority="1" />
+      <Item value="RegisterProduct`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="CreateInstance`0" priority="0" />
+      <Item value="FullName" priority="1" />
+      <Item value="GetName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetType`0" priority="1" />
+      <Item value="EmptyTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.AssemblyName">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Interfaces.IAnimal">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="Genus" priority="1" />
+      <Item value="Species" priority="1" />
+      <Item value="TakeOnLife`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="3" />
+      <Item value="TryGetValue`0" priority="7" />
+      <Item value="First`1" priority="0" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="FirstOrDefault`1" priority="1" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.AnimalFactory">
+      <Item value="Singleton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.PlantFactory">
+      <Item value="RegisterType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Interfaces.IAbstractFactory">
+      <Item value="Singleton" priority="0" />
+      <Item value="RegisterType`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="GetDomain`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="DefineDynamicAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Emit.AssemblyBuilderAccess">
+      <Item value="RunAndSave" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.AssemblyBuilder">
+      <Item value="DefineDynamicModule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.ModuleBuilder">
+      <Item value="DefineType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.TypeBuilder">
+      <Item value="DefineDefaultConstructor`0" priority="0" />
+      <Item value="DefineMethod`0" priority="2" />
+      <Item value="CreateType`0" priority="0" />
+      <Item value="AddInterfaceImplementation`0" priority="1" />
+      <Item value="DefineProperty`0" priority="0" />
+      <Item value="DefineField`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.MethodAttributes">
+      <Item value="Public" priority="0" />
+      <Item value="SpecialName" priority="0" />
+      <Item value="HideBySig" priority="0" />
+      <Item value="Virtual" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.MethodBuilder">
+      <Item value="GetILGenerator`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.ILGenerator">
+      <Item value="Emit`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Emit.OpCodes">
+      <Item value="Ret" priority="2" />
+      <Item value="Ldarg_0" priority="1" />
+      <Item value="Ldfld" priority="0" />
+      <Item value="Ldarg_1" priority="0" />
+      <Item value="Stfld" priority="0" />
+      <Item value="Ldstr" priority="1" />
+      <Item value="Nop" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.GeneraFactory">
+      <Item value="CreateNewGeneraRuntime`0" priority="0" />
+      <Item value="Singleton" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.GeneraFactory">
+      <Item value="CreateNewGeneraRuntime`0" priority="0" />
+      <Item value="RegisteredTypes" priority="0" />
+      <Item value="RegisterProperty`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="6" />
+      <Item value="TypeHandle" priority="0" />
+      <Item value="GetType`0" priority="2" />
+      <Item value="AssemblyQualifiedName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Interfaces.IPlant">
+      <Item value="Genus" priority="0" />
+      <Item value="Species" priority="0" />
+      <Item value="TakeOnLife`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.PropertyAttributes">
+      <Item value="HasDefault" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Emit.PropertyBuilder">
+      <Item value="SetGetMethod`0" priority="0" />
+      <Item value="SetSetMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Except`1" priority="0" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Interfaces.ILife">
+      <Item value="Kingdom" priority="8" />
+      <Item value="Genus" priority="2" />
+      <Item value="Species" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.KingdomFactory">
+      <Item value="RegisteredTypes" priority="0" />
+      <Item value="RegisterProperty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.SpeciesFactory">
+      <Item value="CreateSpecies`0" priority="1" />
+      <Item value="RegisterStringProperty`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.AnimalFactory">
+      <Item value="Singleton" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.AnimalFactory">
+      <Item value="RegisterType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.PlantFactory">
+      <Item value="Singleton" priority="1" />
+      <Item value="CreatePlant`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.ClassificationFactory">
+      <Item value="Singleton" priority="0" />
+      <Item value="RegisteredClassifications" priority="1" />
+      <Item value="RegisterTypeProperty`0" priority="0" />
+      <Item value="GetClassification`0" priority="1" />
+      <Item value="GetRegisteredKey`0" priority="0" />
+      <Item value="QualifierName" priority="1" />
+      <Item value="CreateClassificationType`0" priority="1" />
+      <Item value="RegisterType`0" priority="0" />
+      <Item value="GetTypes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="2" />
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.ClassificationFactory">
+      <Item value="Singleton" priority="14" />
+      <Item value="CreateClassification`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.KingdomFactory">
+      <Item value="Singleton" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BasicOperations.Factories.TypeFactory">
+      <Item value="Singleton" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BasicOperations.Factories.TypeFactory">
+      <Item value="CreateClassificationType`0" priority="0" />
+      <Item value="GetClassification`0" priority="0" />
+      <Item value="QualifierName" priority="0" />
+      <Item value="RegisteredTypes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="0" />
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Items" priority="1" />
+      <Item value="ItemsSource" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

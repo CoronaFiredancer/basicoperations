@@ -1,0 +1,10 @@
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\MoreBasics\bin\Debug\MoreBasics.dll
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\MoreBasics\bin\Debug\MoreBasics.pdb
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.dll
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.pdb
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\bin\Debug\MoreBasics.dll
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\bin\Debug\MoreBasics.pdb
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.csprojResolveAssemblyReference.cache
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.dll
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\MoreBasics\obj\x86\Debug\MoreBasics.pdb

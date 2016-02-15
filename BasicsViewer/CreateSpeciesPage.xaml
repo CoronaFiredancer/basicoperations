@@ -1,0 +1,20 @@
+﻿<Page x:Class="BasicsViewer.CreateSpeciesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="CreateSpeciesPage">
+
+    <Grid>
+		<ComboBox Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="comboBox1" VerticalAlignment="Top" Width="120" />
+		<ComboBox Height="23" HorizontalAlignment="Left" Margin="12,41,0,0" Name="comboBox2" VerticalAlignment="Top" Width="120" />
+		<TextBox Height="23" HorizontalAlignment="Left" Margin="12,70,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" />
+		<TextBox Height="23" HorizontalAlignment="Left" Margin="12,99,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" />
+		<Label Content="Kingdom" Height="28" HorizontalAlignment="Left" Margin="138,12,0,0" Name="label1" VerticalAlignment="Top" />
+		<Label Content="Class" Height="28" HorizontalAlignment="Left" Margin="138,41,0,0" Name="label2" VerticalAlignment="Top" />
+		<Label Content="Genus" Height="28" HorizontalAlignment="Left" Margin="138,70,0,0" Name="label3" VerticalAlignment="Top" />
+		<Label Content="Species" Height="28" HorizontalAlignment="Left" Margin="138,99,0,0" Name="label4" VerticalAlignment="Top" />
+	</Grid>
+</Page>

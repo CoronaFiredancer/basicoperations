@@ -1,0 +1,17 @@
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.exe
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.pdb
+C:\Users\CORONA\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.exe
+C:\Users\CORONA\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.pdb
+C:\Users\CORONA\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\CORONA\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\CORONA\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropperen\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.exe
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.pdb
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\carstenw\Dropbox\MustDoWork\BasicOperations\BasicOperations\obj\x86\Debug\BasicOperations.csprojResolveAssemblyReference.cache
